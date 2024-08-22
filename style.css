@@ -321,7 +321,9 @@ footer {
   .section_2 {
     margin-top: 20px;
   }
-
+  .aboutme {
+    padding: 40px 20px;
+  }
   nav ul {
     flex-direction: column;
     gap: 10px;
